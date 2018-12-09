@@ -6,7 +6,7 @@ clear all;
 n = 10;
 
 % number of sequencies
-n_seq = 1000;
+n_seq = 10000;
 
 % standard deviation of the normal distribution
 stddev_seq = 10;
